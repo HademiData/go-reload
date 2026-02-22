@@ -1,4 +1,4 @@
-Go Reloaded
+**Go Reloaded**
 Go Reloaded is a 01Founders project to demonstrate skills with source parsing and string manipulation.
 
 Project Outline
